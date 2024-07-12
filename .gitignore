@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+build/
+dist/
+MANIFEST
+.idea/
+.ipynb_checkpoints/
+*.egg-info/
+venv/
+*.vs*
+*.exe
+*.msi
+*.whl
+*.out
