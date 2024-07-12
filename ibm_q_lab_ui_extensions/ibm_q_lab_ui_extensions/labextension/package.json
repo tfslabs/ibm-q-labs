@@ -73,7 +73,7 @@
         "@typescript-eslint/eslint-plugin": "^5.40.1",
         "@typescript-eslint/parser": "^5.40.1",
         "autoprefixer": "^10.4.12",
-        "axios": "^0.27.2",
+        "axios": "^1.7.2",
         "carbon-components-react": "^7.27.0",
         "carbon-icons": "^7.0.7",
         "clsx": "^1.2.1",
