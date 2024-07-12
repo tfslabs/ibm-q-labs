@@ -1,9 +1,3 @@
-```
-View the original public IBM-Q repository on GitHub
-
-https://github.com/shiroinekotfs/IBM-Q-Software
-```
-
 # IBM-Q Software
 
 IBM-Q Software is for IBM Quantum Lab, a part of the IBM Quantum Learning Center
