@@ -8,7 +8,7 @@ import os
 from urllib.parse import urlparse
 import datetime
 
-NOTEBOOK_PYTHON_VERSION = '3.10.6'
+NOTEBOOK_PYTHON_VERSION = '3.7.8'
 
 
 class QLabNotebooksHandler(JupyterHandler):
