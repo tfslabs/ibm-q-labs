@@ -1,6 +1,6 @@
 {
   "load_extensions": {
-    "nbextensions_configurator/config_menu/main": true,
+    "nbextensions_configurator/config_menu/main": false,
     "contrib_nbextensions_help_item/main": true,
     "hinterland/hinterland": true
   }
