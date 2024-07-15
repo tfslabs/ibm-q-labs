@@ -12,10 +12,8 @@ import json
 from .utils import DEFAULT_QASM
 
 def circuit_to_qasm(circuit, widget):
-    if circuit is None:
-        return json.dumps(DEFAULT_QASM)
-    else:
-        return json.dumps(circuit.qasm())
+    try: return json.dumps(circuit.qasm())
+    except: return json.dumps(DEFAULT_QASM)
 
 def circuit_from_qasm(qasm, widget):
     return QuantumCircuit.from_qasm_str(json.loads(qasm))
